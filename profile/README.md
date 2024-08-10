@@ -1,5 +1,5 @@
 # Introduction
-This organization is for grouping a set of repositories created for the development of a Voting System purely written in Scala 2 and aims to be a source for having example of services using the stacks of Akka/Pekko, Cats Effects and ZIO.\
+This organization is for grouping a set of repositories created for the development of a Ticket Booking System purely written in Scala 2 and aims to be a source for having example of services using the stacks of Akka/Pekko, Cats Effects and ZIO.\
 \
 Techonologies used on this solution are:
 - Akka
